@@ -1,7 +1,7 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://pekarangan-hijau.web.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Lightbi"
+title = "Pekarangan Hijau"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -13,16 +13,16 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 enableRobotsTXT = true
-enableGitInfo = false
+enableGitInfo = true
 Paginate = 6
 summaryLength  = "30"
 
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
-comments = false
-readingTime = false
+dateFormat = "2 January 2006"
+comments = true
+readingTime = true
 wordCount = false
 useHLJS = true
 socialShare = true
@@ -32,11 +32,11 @@ summaryLength  = "9"
 lunrSearch = true
 gcse = false
 lastmod = false
-rss = false
+rss = true
 pagination = "10"
 hideAuthor = false
-authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
-description="Your can add your website description here."
+authorInfo = "hidup itu sementara, akhirat selamanya (namun aku percaya waulaupun hanya sementara disitu harus memberi makna)"
+description="website pertanian untuk indonesia menjadi negara mandiri pangan"
 previewCardImagePlacement = "bottom"
 
 
@@ -46,16 +46,16 @@ previewCardImagePlacement = "bottom"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  threads = "username"
-  linkedin = "username"
-  github = "username"
+  name = "Ahmad Yusuf Maulana"
+  website = "https://pekarangan-hijau.web.app/"
+  email = "ahmadyusufmaulana0@gmail.com"
+#   facebook = "username"
+  instagram = "yuuahmad"
+#   youtube = "user/username" # or channel/channelname
+#   twitter = "username"
+#   threads = "username"
+#   linkedin = "username"
+  github = "yuuahmad-aii"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -88,7 +88,7 @@ previewCardImagePlacement = "bottom"
 
 [[menu.main]]
     name = "Tags"
-    url = "/tags/blog/"
+    url = "/tags/"
     weight = 3
 
 [[menu.main]]

@@ -4,16 +4,14 @@ layout : "about"
 title: "About me"
 ---
 
-I am Bino Kochumol Varghese.
+## I am Ahmad Yusuf Maulana
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+hai nama saya ahmad yusuf maulana. saya memiliki hobi elektronika dan selalu ingin tahu tentang dunia teknologi baik itu beritanya, inovasinya, kompetisinya, dan komunitasnya.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+saat ini (februari 2024) saya menjadi mahasiswa di akademi inovasi indonesia sekaligus menjadi pekerja di dtech-engineering. selama saya menjadi mahasiswa dan pekerja di dtech-engineering, saya merasa yakin jika "disinilah tempat saya"
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-##### Social Media
-- [Instagram](https://www.instagram.com/binovarghese_)
+## Social Media
+- [Instagram](https://www.instagram.com/yuuahmad)
 - [Twitter](https://twitter.com/binovarghese_)
 - [Linkedin](https://linkedin.com/in/binovarghese-)
  

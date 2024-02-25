@@ -1,5 +1,5 @@
 <span class="post-meta text-muted">
-  {{ $lastmodstr := default (i18n "dateFormat") .Site.Params.dateformat | .Lastmod.Format }}
+  {{ $lastmodstr := default (i18n "shortdateFormat") .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
 
   {{ $datestr }}
@@ -9,7 +9,8 @@
   {{ end }}
 
   {{ if .Site.Params.readingTime }}
-  &nbsp;|&nbsp; <i class="bi bi-clock"></i>&nbsp;{{ i18n "readingTime"}}{{ .ReadingTime }}&nbsp;{{ i18n "readTime" .ReadingTime }}
+  &nbsp;|&nbsp; <i class="bi bi-clock"></i>&nbsp;{{ i18n "readingTime"}}{{ .ReadingTime }}&nbsp;{{ i18n "readTime"
+  .ReadingTime }}
   {{ end }}
 
   {{ if .Site.Params.wordCount }}
